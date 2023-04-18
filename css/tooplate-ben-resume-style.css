@@ -323,7 +323,6 @@ https://www.tooplate.com/view/2120-ben-resume
   .email-link:hover {
     background: var(--dark-color);
     color: var(--white-color);
-  display:none;
   }
 
 
@@ -612,6 +611,6 @@ https://www.tooplate.com/view/2120-ben-resume
 
     .email-link {
       font-size: 20px;
-      /*padding: 0.3rem 2rem 0.6rem 2rem;*/
+      padding: 0.3rem 2rem 0.6rem 2rem;
     }
   }
